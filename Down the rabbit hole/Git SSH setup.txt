@@ -39,3 +39,4 @@ Add your SSH key to the ssh-agent. If you used an existing SSH key rather than g
 $ ssh-add ~/.ssh/id_rsa
 
 Add the SSH key to your GitHub account.
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
